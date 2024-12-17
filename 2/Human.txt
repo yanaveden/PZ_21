@@ -1,0 +1,37 @@
+First Name: Yana
+Surname: Vedenova
+Age: 18
+Weight in kg: 50
+Height in cm: 170
+Toy: -
+_____________________________________________
+First Name: Stas
+Surname: sinelnikov
+Age: 18
+Weight in kg: 75
+Height in cm: 180
+Has Document: Yes
+_____________________________________________
+First Name: undefined
+Surname: undefined
+Age: 0
+Weight in kg: 0
+Height in cm: 0
+Toy: undefined
+_____________________________________________
+First Name: undefined
+Surname: undefined
+Age: 0
+Weight in kg: 0
+Height in cm: 0
+Has Document: No
+_____________________________________________
+First Name: Yana
+Surname: Kim
+Age: 17
+Weight: 48
+Height: 168
+Toy: doll
+Has Document: Yes
+Education: rksi
+__________________________________
